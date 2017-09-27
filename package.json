@@ -1,0 +1,23 @@
+{
+  "name": "codegenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/745114565/codeGenerator.git"
+  },
+  "keywords": [
+    "node",
+    "mongodb"
+  ],
+  "author": "sunning",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/745114565/codeGenerator/issues"
+  },
+  "homepage": "https://github.com/745114565/codeGenerator#readme"
+}
