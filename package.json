@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "start"
+    "test": "node app"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/745114565/codeGenerator/issues"
   },
-  "homepage": "https://github.com/745114565/codeGenerator#readme"
+  "homepage": "https://github.com/745114565/codeGenerator#readme",
+  "devDependencies": {
+    "express": "^4.15.5"
+  }
 }
